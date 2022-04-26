@@ -1,5 +1,5 @@
 # UAS-Praktikum-APL
-Dibuat untuk emmenuhi tugas ujian akhir semester praktikum Arsitektur Perangkat Lunak
+Implementasi observer pattern dan decorator pattern pada aplikasi zoom meeting.
 
 Kasus yang digunakan : Aplikasi Zoom Meeting
 Pattern yang diimplementasikan :
